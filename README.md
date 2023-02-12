@@ -10,8 +10,11 @@
 Neste meu primeiro projeto na área de Ciência de Dados, realizei a análise dos dados disponibilizados pela plataforma AirBNB da cidade de Lisboa, Portugal.
 Pude trabalhar com a biblioteca PANDAS, da linguagem de programação Python, aplicada ao dataset disponibilizado, de forma a realizar uma análise exploratória que auxiliasse os viajantes que desejem se hospedar na cidade de Lisboa.
 
+https://colab.research.google.com/drive/1k2gUn0ICwWx6SGj9w5ynfPZLBiTkLGJ9?usp=sharing
+
 * [Link para o projeto completo no GitHub](https://github.com/carlosontiveross/AnaliseAIRBNB/blob/main/Projeto_An%C3%A1lise_de_dados_do_AIRBNB_Lisboa.ipynb)
 * [Link para o projeto completo no Medium](https://medium.com/@carlos.python97/análise-exploratória-de-dados-do-airbnb-lisboa-portugal-bc99fc2f27)
+* [Link para o projeto completo no Google Colab](https://colab.research.google.com/drive/1k2gUn0ICwWx6SGj9w5ynfPZLBiTkLGJ9?usp=sharing)
 
 **Links para me acharem:**
 * [Link para o meu portfólio no Medium](https://medium.com/@carlos.python97)
